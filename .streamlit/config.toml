@@ -1,7 +1,6 @@
 [server]
 headless = true
 enableCORS=false
-port = $PORT
 
 [theme]
 # Primary accent color for interactive elements.
