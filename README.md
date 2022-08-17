@@ -12,9 +12,9 @@ Find his:
 👉 **https://resume.pythonandvba.com/**
 
 ## Screenshots
-![Demo1](./demo1.png?raw=true "Demo1")
-![Demo2](./demo2.png?raw=true "Demo2")
-![Demo3](./demo3.png?raw=true "Demo3")
+![Demo1](./assets/demo1.png?raw=true "Demo1")
+![Demo2](./assets/demo2.png?raw=true "Demo2")
+![Demo3](./assets/demo3.png?raw=true "Demo3")
 
 ## Video Tutorial
 ..will follow soon!
