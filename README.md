@@ -17,8 +17,7 @@ Find his:
 ![Demo3](./assets/demo3.png?raw=true "Demo3")
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/BXAeMICmUSQ/0.jpg)](https://youtu.be/BXAeMICmUSQ)
 
 
 ## Requirements
